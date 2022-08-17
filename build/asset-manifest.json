@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/website-profile/static/css/main.4824bd0d.css",
+    "main.js": "/website-profile/static/js/main.a3be935d.js",
+    "static/media/jayson-hernandez-resume-2022.pdf": "/website-profile/static/media/jayson-hernandez-resume-2022.524b3ffc8e7aca5e307d.pdf",
+    "static/media/me-about.jpg": "/website-profile/static/media/me-about.5547c08e58787270abb8.jpg",
+    "static/media/me.png": "/website-profile/static/media/me.8d4f9ef3c2467a967cfd.png",
+    "static/media/portfolio5.png": "/website-profile/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio1.jpg": "/website-profile/static/media/portfolio1.6ce5ca2fd8e400ad47f4.jpg",
+    "static/media/portfolio6.jpg": "/website-profile/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio2.jpg": "/website-profile/static/media/portfolio2.8912da8fc849d50a176c.jpg",
+    "static/media/portfolio3.jpg": "/website-profile/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/website-profile/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/website-profile/index.html",
+    "main.4824bd0d.css.map": "/website-profile/static/css/main.4824bd0d.css.map",
+    "main.a3be935d.js.map": "/website-profile/static/js/main.a3be935d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4824bd0d.css",
+    "static/js/main.a3be935d.js"
+  ]
+}

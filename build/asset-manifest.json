@@ -1,22 +1,22 @@
 {
-  "files": {
-    "main.css": "/website-profile/static/css/main.4824bd0d.css",
-    "main.js": "/website-profile/static/js/main.a3be935d.js",
-    "static/media/jayson-hernandez-resume-2022.pdf": "/website-profile/static/media/jayson-hernandez-resume-2022.524b3ffc8e7aca5e307d.pdf",
-    "static/media/me-about.jpg": "/website-profile/static/media/me-about.5547c08e58787270abb8.jpg",
-    "static/media/me.png": "/website-profile/static/media/me.8d4f9ef3c2467a967cfd.png",
-    "static/media/portfolio5.png": "/website-profile/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio1.jpg": "/website-profile/static/media/portfolio1.6ce5ca2fd8e400ad47f4.jpg",
-    "static/media/portfolio6.jpg": "/website-profile/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio2.jpg": "/website-profile/static/media/portfolio2.8912da8fc849d50a176c.jpg",
-    "static/media/portfolio3.jpg": "/website-profile/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/website-profile/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/website-profile/index.html",
-    "main.4824bd0d.css.map": "/website-profile/static/css/main.4824bd0d.css.map",
-    "main.a3be935d.js.map": "/website-profile/static/js/main.a3be935d.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.4824bd0d.css",
-    "static/js/main.a3be935d.js"
-  ]
+  "main.css": "/static/css/main.6986bdc9.chunk.css",
+  "main.js": "/static/js/main.16834bdf.chunk.js",
+  "main.js.map": "/static/js/main.16834bdf.chunk.js.map",
+  "static/js/1.41e54f60.chunk.js": "/static/js/1.41e54f60.chunk.js",
+  "static/js/1.41e54f60.chunk.js.map": "/static/js/1.41e54f60.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/jayson-hernandez-resume-2022.pdf": "/static/media/jayson-hernandez-resume-2022.5b740797.pdf",
+  "static/media/me.png": "/static/media/me.483b6583.png",
+  "static/media/me-about.jpg": "/static/media/me-about.7293c924.jpg",
+  "static/media/portfolio1.jpg": "/static/media/portfolio1.f5f33824.jpg",
+  "static/media/portfolio2.jpg": "/static/media/portfolio2.8f7132c7.jpg",
+  "static/media/portfolio3.jpg": "/static/media/portfolio3.ce79413f.jpg",
+  "static/media/portfolio4.jpg": "/static/media/portfolio4.04dbe3ab.jpg",
+  "static/media/portfolio5.png": "/static/media/portfolio5.c6e34db9.png",
+  "static/media/portfolio6.jpg": "/static/media/portfolio6.32a90284.jpg",
+  "static/css/main.6986bdc9.chunk.css.map": "/static/css/main.6986bdc9.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.6adff65e26996cb40c091693fd59e93c.js": "/precache-manifest.6adff65e26996cb40c091693fd59e93c.js",
+  "service-worker.js": "/service-worker.js"
 }

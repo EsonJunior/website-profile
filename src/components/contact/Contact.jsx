@@ -34,13 +34,13 @@ const Contact = () => {
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>JaysonHJr</h5>
-            <a href="https://m.me/JaysonHJr" target="_blank">Send a message</a>
+            <a href="https://messenger.com" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <BsLinkedin className='contact__option-icon'/>
             <h4>LinkedIn</h4>
             <h5>Jayson Hernandez</h5>
-            <a href="https://www.linkedin.com/in/jayson-hernandez-910a061bb" target="_blank">Send a message</a>
+            <a href="https://www.linkedin.com" target="_blank">Send a message</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS

@@ -2,7 +2,7 @@ import React from 'react'
 import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import {RiMessengerLine} from 'react-icons/ri'
-import {BsLinkedin} from 'react-icons/bs'
+import {BiCoffeeTogo} from 'react-icons/bi'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
 
@@ -37,10 +37,10 @@ const Contact = () => {
             <a href="https://messenger.com" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
-            <BsLinkedin className='contact__option-icon'/>
+            <BiCoffeeTogo className='contact__option-icon'/>
             <h4>LinkedIn</h4>
             <h5>Jayson Hernandez</h5>
-            <a href="https://www.linkedin.com" target="_blank">Send a message</a>
+            <a href="https://www.buymeacoffee.com/jaysoneson05" target="_blank">Give some Coffee</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS

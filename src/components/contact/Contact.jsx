@@ -38,13 +38,8 @@ const Contact = () => {
           </article>
           <article className="contact__option">
             <BiCoffeeTogo className='contact__option-icon'/>
-<<<<<<< HEAD
-            <h4>LinkedIn</h4>
-            <h5>Jayson Hernandez</h5>
-=======
             <h4>Buymeacoffee</h4>
             <h5></h5>
->>>>>>> 56fc64c (Update)
             <a href="https://www.buymeacoffee.com/jaysoneson05" target="_blank">Give some Coffee</a>
           </article>
         </div>
